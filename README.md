@@ -1,3 +1,3 @@
 # CODSOFT
 This is an internship project.
-This is for project of codsoft.
+This is for project of Anubhav.
